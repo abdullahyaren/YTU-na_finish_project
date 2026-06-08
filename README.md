@@ -1,6 +1,6 @@
 # 📐 Numerical Analysis — End-of-Term Project
 
-> **Sayısal Analiz | Yıldız Technical University**  
+> **Yıldız Technical University**  
 > Interactive terminal application implementing 10 fundamental numerical methods in ANSI C.
 
 ---
